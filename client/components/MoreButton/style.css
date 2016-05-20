@@ -1,0 +1,20 @@
+.buttonOpen {
+  clear: both;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  border-bottom: 1px solid #DCDCDC;
+  margin-bottom: 30px;
+}
+.buttonClosed {
+  clear: both;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.showMoreLink {
+  font-size: 20px;
+  cursor: pointer;
+  margin: 20px auto;
+}
