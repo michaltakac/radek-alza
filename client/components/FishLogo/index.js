@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './style.css';
-const img = require('./fish-logo-black.png');
+const img = require('./fish-logo-white.png');
 
 function FishLogo() {
   return (
