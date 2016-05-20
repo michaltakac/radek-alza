@@ -22,11 +22,11 @@ button {
 body {
   font: 16px Verdana, Sans-Serif, Arial;
   line-height: 1.4em;
-  color: #fff;
+  color: #4d4d4d;
   min-width: 230px;
   max-width: 820px;
   margin: 0 auto;
-  background: #000;
+  background: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
   -ms-font-smoothing: antialiased;
@@ -41,7 +41,7 @@ input[type="checkbox"] {
 }
 
 .normal {
-  background: #000;
+  background: #fff;
   padding: 20px;
   position: relative;
 }
